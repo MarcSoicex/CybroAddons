@@ -92,7 +92,7 @@
                             <tr style="height:60px">
                                 <td>
                                     <label for="last_name"
-                                           class="control-label">Last Name:
+                                           class="control-label">Last Name: toto
                                     </label>
                                 </td>
                                 <td>
